@@ -46,7 +46,8 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 1rem 2rem; 
+  padding: 1rem 2rem;
+  background-size: cover; 
 }
 
 .btn-primary {
